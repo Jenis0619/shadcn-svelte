@@ -36,7 +36,7 @@ This project is supported by the following beautiful people/organizations:
 Published under the [MIT](https://github.com/huntabyte/shadcn-svelte/blob/main/LICENSE) license.
 Built by [@huntabyte](https://github.com/huntabyte), [CokaKoala](https://github.com/adriangonz97),and [community](https://github.com/huntabyte/shadcn-svelte/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/huntabyte/shadcn-svelte/graphs/contributors">
+<a href="https://github.com/Jenis0619/shadcn-svelte/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=huntabyte/shadcn-svelte" />
 </a>
 
